@@ -1,0 +1,3 @@
+lenguage: java
+intsall: true
+script: mvn install
