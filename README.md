@@ -1,2 +1,2 @@
 # EasyBalanceChecking
-[![Build Status](https://travis-ci.com/jessicamagris/EasyBalanceChecking.svg?token=pKjiVwZN4vEsW6tzNwBw&branch=master)
+[![Build Status](https://travis-ci.org/jessicamagris/EasyBalanceChecking.svg?branch=master)
